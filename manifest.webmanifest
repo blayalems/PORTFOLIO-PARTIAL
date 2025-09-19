@@ -2,7 +2,7 @@
   "name": "Lemuel Blaya | Portfolio",
   "short_name": "Lemuel Blaya",
   "description": "Portfolio of Lemuel Blaya, an aspiring Electronics Engineer and Creative Technologist.",
-  "start_url": "/",
+  "start_url": "https://blayalems.github.io/PORTFOLIO-PARTIAL/",
   "display": "standalone",
   "background_color": "#0a192f",
   "theme_color": "#0a192f",
@@ -20,6 +20,7 @@
   ]
 
 }
+
 
 
 
