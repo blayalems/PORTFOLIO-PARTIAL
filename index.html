@@ -630,7 +630,7 @@
             function registerServiceWorker() {
                 if ('serviceWorker' in navigator) {
                     window.addEventListener('load', () => {
-                        navigator.serviceWorker.register('/sw.js')
+                        navigator.serviceWorker.register('/PORTFOLIO-PARTIAL/sw.js')
                             .then(registration => {
                                 console.log('ServiceWorker registration successful with scope: ', registration.scope);
                             })
@@ -664,5 +664,6 @@ window.addEventListener('beforeinstallprompt', (e) => {
 });</script>
 </body>
 </html>
+
 
 
